@@ -1,0 +1,2 @@
+Natal,Joao-Pessoa,T,100
+Amsterdam,New-York,T,500

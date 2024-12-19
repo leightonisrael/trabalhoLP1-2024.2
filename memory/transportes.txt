@@ -1,0 +1,2 @@
+Carro,T,4,100,Joao-Pessoa,500,1,0,0
+Carro-Rapido,T,5,250,New-York,1000,1,0,0

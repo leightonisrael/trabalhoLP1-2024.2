@@ -1,0 +1,4 @@
+Israel,Joao-Pessoa
+Paulo,Joao-Pessoa
+Isaac,Amsterdam
+Joao,New-York
